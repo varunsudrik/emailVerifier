@@ -1,4 +1,4 @@
-Email Verifier
+                                                                Email Verifier
 
 This is a Node.js application that uses the xemailverify API to verify email addresses.
 
